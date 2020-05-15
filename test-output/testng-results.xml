@@ -2,20 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="1648" started-at="2020-05-12T12:41:23 IST" finished-at="2020-05-12T12:41:24 IST">
+  <suite name="Default suite" duration-ms="47" started-at="2020-05-15T12:09:49 IST" finished-at="2020-05-15T12:09:49 IST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="1648" started-at="2020-05-12T12:41:23 IST" finished-at="2020-05-12T12:41:24 IST">
-      <class name="com.w2a.AllTestCase.LoginPageTestCase">
-        <test-method status="PASS" signature="Setup()[pri:0, instance:com.w2a.AllTestCase.LoginPageTestCase@64729b1e]" name="Setup" is-config="true" duration-ms="9500" started-at="2020-05-12T12:41:13 IST" finished-at="2020-05-12T12:41:23 IST">
+    <test name="Default test" duration-ms="47" started-at="2020-05-15T12:09:49 IST" finished-at="2020-05-15T12:09:49 IST">
+      <class name="com.w2a.AllTestCase.registraionPageTestCase">
+        <test-method status="PASS" signature="registarionPage()[pri:0, instance:com.w2a.AllTestCase.registraionPageTestCase@694e1548]" name="registarionPage" duration-ms="0" started-at="2020-05-15T12:09:49 IST" finished-at="2020-05-15T12:09:49 IST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- Setup -->
-        <test-method status="PASS" signature="LoginPageTestCaseMethod()[pri:0, instance:com.w2a.AllTestCase.LoginPageTestCase@64729b1e]" name="LoginPageTestCaseMethod" duration-ms="1610" started-at="2020-05-12T12:41:23 IST" finished-at="2020-05-12T12:41:24 IST">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- LoginPageTestCaseMethod -->
-      </class> <!-- com.w2a.AllTestCase.LoginPageTestCase -->
+        </test-method> <!-- registarionPage -->
+      </class> <!-- com.w2a.AllTestCase.registraionPageTestCase -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
