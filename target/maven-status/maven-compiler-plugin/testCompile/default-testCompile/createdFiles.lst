@@ -1,0 +1,8 @@
+com\w2a\Util\ExtentManager.class
+com\w2a\AllPages\LoginPage.class
+com\w2a\Util\Screenshot.class
+com\w2a\AllTestCase\LoginPageTestCase.class
+com\w2a\Base\BaseClass.class
+com\w2a\Util\Testutil.class
+com\w2a\Rough\TimeStamp.class
+Listner\MyListener.class
